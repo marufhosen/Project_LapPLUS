@@ -1,0 +1,50 @@
+nav{
+    border-bottom: 3px solid #005ab6;
+    background: #292b2c;
+    opacity: 1;
+}
+#home-section{
+    background: url('/src/img/Bichnakandi.jpg') no-repeat center top;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#home-section .overlay{
+    background: rgba(0, 0, 0, 0.7);
+    min-height: 700px;
+}
+#home-section .row{
+    padding-top: 130px;
+}
+#home-section .col-lg-8{
+    color: #f9f5df;
+}
+#home-section .icons i{
+    color: #005ab6;
+    font-size: x-large;
+}
+
+#explore-section .explore-head{
+    background: #3b3b39;
+}
+#explore-section .content-right i{
+    color: #005ab6;
+    font-size: x-large;
+}
+#create-section .create-head{
+    background: #007bff;
+}
+#create-section .create-left i{
+    color: #005ab6;
+    font-size: x-large;
+}
+
+#share-section .share-head{
+    background: #007bff;
+}
+#share-section .share-right i{
+    color: #005ab6;
+    font-size: x-large;
+}
+footer{
+    background: #3b3b39;
+}
